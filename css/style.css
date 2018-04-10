@@ -1,0 +1,52 @@
+html {
+  box-sizing: border-box;
+}
+body{
+  background-color: forrestgreen;
+  color: black;
+  font-family: Times;
+}
+div{
+  padding-top:1%;
+
+}
+h1{
+
+  font-weight:lighter;
+}
+p{
+  font-family:monospace;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.highlighted{
+  background-color: yellow;
+}
+a {
+
+}
+
+.navigation {
+  list-style: none;
+  display: inline;
+  color:blue;
+}
+.navigation li {
+  list-style: none;
+  display:inline
+}
+.navigation a {
+  color:blue;
+
+}
+.navigation a:hover {
+  color:orange;
+
+}
+#blog-footer{
+  background-color: gray;
+}
